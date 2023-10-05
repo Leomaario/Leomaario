@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Leomaario
+- 👀 I’m interested in estagio
+- 🌱 I’m currently learning backend
+- 💞️ I’m looking to collaborate on tudo que me for peço
+- 📫 How to reach me leomariodev@gmail.com
