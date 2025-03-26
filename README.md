@@ -1,4 +1,4 @@
-## Ola, eu sou o Leomario Santos, desenvolvedor de software e entusiasta de tecnologia!
+## Oii, eu sou o Leomario Santos, desenvolvedor de software e entusiasta de tecnologia!
 
 Estou sempre buscando melhorar minhas habilidades em programação e compartilhar conhecimentos com a comunidade.
 
@@ -23,8 +23,14 @@ Estou sempre buscando melhorar minhas habilidades em programação e compartilha
 - Python
 - React.js
 
+##
+
+**Estatísticas de projetos no GitHub:**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leomaario&show_icons=true&theme=radical)
+
 <div> 
   <a href="https://github.com/Leomaario" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leomaario/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:leomariodev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leomario-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:leomariosantos@example.com"><img src="https://img.shields.io/badge/-Outlook-%230E76A8?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
