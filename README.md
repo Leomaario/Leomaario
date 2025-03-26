@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leomario, um futuro engenheiro de software apaixonado por tecnologia e desenvolvimento!
+## Olá! Eu sou o Leomario, Focado em me tornar um Engenheiro de Software
 
 Atualmente, estou me aprofundando em **Java** e **Spring** e minha meta é me tornar um profissional especialista em desenvolvimento de sistemas. Estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**, com conclusão prevista para **julho de 2026**.
 
