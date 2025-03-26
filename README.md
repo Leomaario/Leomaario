@@ -21,12 +21,11 @@ Atualmente, estou me aprofundando em **Java** e **Spring** e minha meta é me to
 ### 🔧 Tecnologias que estou aprendendo e utilizando
 - **Java** e **Spring** para back-end.
 - **Python** para automação, análise de dados e outros projetos.
-- **React.js** e **React Native** para desenvolvimento de front-end e aplicativos móveis.
+- **React.js** para desenvolvimento de front-end.
 - **PostgreSQL** para banco de dados relacional.
 
 ### 📈 Projetos
 Tenho trabalhado em vários projetos, incluindo:
-- Sistema de **gestão de usuários**.
 - **To-Do List** para melhorar a produtividade e organização.
 
 ## Conecte-se comigo:
