@@ -24,10 +24,6 @@ Atualmente, estou me aprofundando em **Java** e **Spring** e minha meta é me to
 - **React.js** para desenvolvimento de front-end.
 - **PostgreSQL** para banco de dados relacional.
 
-### 📈 Projetos
-Tenho trabalhado em vários projetos, incluindo:
-- **To-Do List** para melhorar a produtividade e organização.
-
 ## Conecte-se comigo:
 
 <div>
